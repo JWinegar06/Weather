@@ -1,3 +1,3 @@
 Base build for Weather section
-<b />
+<br />
 Moved to D: TTech Classes
